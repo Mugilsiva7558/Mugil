@@ -5,14 +5,14 @@ int main(void) {
   scanf("%d",&num);
   if(num%2==0)
   {
-  printf("even");
+  printf("Even");
     }
      else if(num<0)
     {
       printf("invalid");
     }
     else{
-      printf("odd");
+      printf("Odd");
     }
   
     return 0;

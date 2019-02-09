@@ -13,7 +13,7 @@ int main(void) {
   }
   else if(num==0)
   {
-    printf("zero");
+    printf("Zero");
   }
   else
   {
